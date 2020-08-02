@@ -4,9 +4,13 @@
 
 # REQUIRED
 pip install openpyxl.
+
 pip install yfinance --upgrade --no-cache-dir.
+
 pip install lxml.
+
 pip install requests.
+
 
 # How to use
 
